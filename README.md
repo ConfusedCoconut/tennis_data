@@ -1,18 +1,18 @@
 I used a linear regression model to predict player earnings based on several factors. The columns in the dataset and their descriptions are listed below.
 
-Player: name of the tennis player//
-Year: year data was recorded//
+Player: name of the tennis player<br>
+Year: year data was recorded<br>
 
-Aces: number of serves by the player where the receiver does not touch the ball//
-DoubleFaults: number of times player missed both first and second serve attempts//
-FirstServe: % of first-serve attempts made//
-FirstServePointsWon: % of first-serve attempt points won by the player//
-SecondServePointsWon: % of second-serve attempt points won by the player//
-BreakPointsFaced: number of times where the receiver could have won service game of the player//
-BreakPointsSaved: % of the time the player was able to stop the receiver from winning service game when they had the chance//
-ServiceGamesPlayed: total number of games where the player served//
-ServiceGamesWon: total number of games where the player served and won//
-TotalServicePointsWon: % of points in games where the player served that they won//
+Aces: number of serves by the player where the receiver does not touch the ball<br>
+DoubleFaults: number of times player missed both first and second serve attempts<br>
+FirstServe: % of first-serve attempts made<br>
+FirstServePointsWon: % of first-serve attempt points won by the player<br>
+SecondServePointsWon: % of second-serve attempt points won by the player<br>
+BreakPointsFaced: number of times where the receiver could have won service game of the player<br>
+BreakPointsSaved: % of the time the player was able to stop the receiver from winning service game when they had the chance<br>
+ServiceGamesPlayed: total number of games where the player served<br>
+ServiceGamesWon: total number of games where the player served and won<br>
+TotalServicePointsWon: % of points in games where the player served that they won<br>
 
 FirstServeReturnPointsWon: % of opponents first-serve points the player was able to win//
 SecondServeReturnPointsWon: % of opponents second-serve points the player was able to win//
